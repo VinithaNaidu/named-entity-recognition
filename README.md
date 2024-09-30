@@ -34,9 +34,8 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 ## PROGRAM
 ```
-Name: Mukil kumar v
-
-Reg. No: 212222230087.
+Name: Vinitha D
+Reg. No: 212222230175
 ```
 ```
 import matplotlib.pyplot as plt
