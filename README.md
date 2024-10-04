@@ -42,8 +42,6 @@ Name: Vinitha D
 Reg. No: 212222230175
 ```
 ```
-
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
